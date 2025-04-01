@@ -4,7 +4,7 @@ Ejemplo de repositorio.
 
 [Nuestro centro](https://site.educa.madrid.org/ies.elcanaveral.mostoles/)
 
-![Logo del centro](https://site.educa.madrid.org/ies.elcanaveral.mostoles//wp-content/uploads/ies.elcanaveral.mostoles/2021/02/cropped-cropped-canaveral-1.png)
+![Logo del centro](/img/cropped-cropped-canaveral-1.png)
 
 ## Listado de centros
 
